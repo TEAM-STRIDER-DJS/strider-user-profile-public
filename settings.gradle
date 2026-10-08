@@ -1,0 +1,3 @@
+rootProject.name = 'strider-user-profile'
+
+include ':strider-common-lib'

@@ -1,0 +1,24 @@
+package com.strider.user_profile.model.enums;
+
+public enum SettingKey {
+    // FEED
+    FEED_LIKE,
+    FEED_COMMENT,
+    FEED_COMMENT_LIKE,
+    FEED_RECOMMENDATION,
+
+    // FOLLOW
+    FOLLOW_REQUEST,
+    FOLLOW_ACCEPTED,
+    FOLLOW_SUGGESTION,
+
+    // MESSAGE
+    MESSAGE_REQUEST,
+    MESSAGE_RECEIVE,
+    MESSAGE_NOTIFICATION,
+
+    // SOUND
+    SOUND_ENABLED,
+    SOUND_VIBRATION,
+    SOUND_TONE
+}
